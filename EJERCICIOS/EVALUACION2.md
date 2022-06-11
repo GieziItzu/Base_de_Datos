@@ -38,7 +38,7 @@ Ejercicio:
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
-●  Es in editor de diagramas
+●  Es un editor de diagramas
 
 ## Práctica 5.
 ### Gestores de base de datos
