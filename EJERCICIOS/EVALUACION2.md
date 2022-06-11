@@ -5,20 +5,40 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+● Select, Insert, update, Delete
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
+
+● Comandos de definición de datos (DDL = Data Definition Language),que permiten crear y definir nuevas bases de datos, campos etc.
+
+● Comandos de manipulación de datos (DML = Data ManipulationLanguage),que permiten generar consultas para ordenar, filtrar y extraer datos de la base de datos.
+
+● Comandos de control y seguridad de datos, que gobiernan los privilegios de los usuarios, los controles de acceso. Los principales comandos del lenguaje SQL
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+● TRUNCATE elimina todas las filas de la tabla sin borrar la tabla que es lo que hace DELETE
+
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
+●  permite establecer atributo a los campos que requerimos tengan datos que no se puedan repetir
+
+
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+
+● Char es una cadena de caracteres de longitud fija y Varchar es una cadena de caracteres de longitud variable
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+● Structured Query Language =lenguaje de consulta estructurado
+
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+●  Es in editor de diagramas
 
 ## Práctica 5.
 ### Gestores de base de datos
